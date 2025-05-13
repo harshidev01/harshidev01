@@ -9,7 +9,7 @@
 - 🌱 I am currently focusing on Problem solving.
 - 😄 Pronouns: She/Her
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afriddev)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshidev01)
 
 ## 🌟 Features
 
